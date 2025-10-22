@@ -11,6 +11,8 @@ Konadu Boateng, Jennifer -------------------------------------------------------
 Hey, my name is Jennifer.
 I made a change
 Narteh-Kofi, Ephraim -----------------------------------------------------------
+This is my fancy code
+This is another line
 Ondari, Paul -------------------------------------------------------------------
 Pobee, Lucille -----------------------------------------------------------------
 Pulak, Maheen This file is updating! Didn't work, Let's try again!--------------
