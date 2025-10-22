@@ -4,6 +4,7 @@ This is another line.
 Agyemang, Kwadwo ---------------------------------------------------------------
 Akintobi, Akintayo -------------------------------------------------------------
 Amoatey, Dennis ----------------------------------------------------------------
+This project is worth a few millions.
 Ayo, Adeola --------------------------------------------------------------------
 Berry, Luke --------------------------------------------------------------------
 This is my super fancy code that is very complex, please DO NOT TOUCH.
