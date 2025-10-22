@@ -6,16 +6,27 @@ Akintobi, Akintayo -------------------------------------------------------------
 Amoatey, Dennis ----------------------------------------------------------------
 Ayo, Adeola --------------------------------------------------------------------
 Berry, Luke --------------------------------------------------------------------
+This is my super fancy code that is very complex, please DO NOT TOUCH.
 Conner, Rachel -----------------------------------------------------------------
 Isaac, Stanley -----------------------------------------------------------------
 Konadu Boateng, Jennifer -------------------------------------------------------
+Hey, my name is Jennifer.
+I made a change
 Narteh-Kofi, Ephraim -----------------------------------------------------------
+This is my fancy code
+This is another line
 Ondari, Paul -------------------------------------------------------------------
 Pobee, Lucille -----------------------------------------------------------------
-Pulak, Maheen ------------------------------------------------------------------
+Pulak, Maheen This file is updating! Didn't work, Let's try again!--------------
 Rai, Sushmita ------------------------------------------------------------------
+This is my fancy code.
+This is another line.
 Roach, Jeff --------------------------------------------------------------------
+This is my fancy code.
+This is another line.
 Professor, CSCI 5230
 Change 2
 Change 1
 Smith, Sharon ------------------------------------------------------------------
+This is Sharon's fancy nancy code.
+See, I did it again.
